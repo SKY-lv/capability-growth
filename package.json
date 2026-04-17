@@ -1,0 +1,10 @@
+{
+  "name": "capability-growth",
+  "version": "1.0.0",
+  "description": "Track AI agent capability growth over time. Success rates, skill evolution, efficiency trends.",
+  "main": "growth_engine.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
